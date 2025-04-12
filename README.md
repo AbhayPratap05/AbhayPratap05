@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning Data Structures, Algorithms and ML Concepts.  
   
-
-- 🪓 I break problems like I break my sleep schedule — aggressively and with no regrets.  
   
 
 <br/>  
