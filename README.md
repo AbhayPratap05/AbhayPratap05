@@ -57,7 +57,10 @@
 </td></tr></table>  
 
 <br/>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhayPratap05&label=Profile%20views&color=0e75b6&style=flat" alt="AbhayPratap05" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhayPratap05" alt="AbhayPratap05" /></a> </p>
+<br/>
 
 ## Connect with me  
 <a href="https://github.com/AbhayPratap05" target="_blank">
